@@ -1,16 +1,27 @@
-## Hi there 👋
+# Norman Jeune
 
-<!--
-**normanjeune/normanjeune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GRC & Security Testing | NIST CSF 2.0 | NIST 800-53 | Control Validation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+- Control testing and validation
+- NIST CSF 2.0 implementation mapping
+- NIST 800-53 control documentation
+- Evidence collection workflows
+- AI governance documentation
+
+---
+
+## Current Work
+- Educator AI Governance Framework
+- Structured test plans & metric validation
+- Compliance mapping artifacts
+
+---
+
+## Certifications
+- CISA (In Progress)
+- Associate of (ISC)<sup>2</sup> (CCSP track)
+- SSCP
+- CySA+
